@@ -28,7 +28,7 @@ OBS: Como a 'credencial.json' é particular e não deve ser divulgada, deixo o p
 - Preencha o campo 'Nome da conta de serviço' e em seguida o papel para aquela conta, eu selecionei 'Projeto -> Proprietário'
 - Criado a conta, clique nela e vá para a aba 'Chaves'
 - Clique em 'Adicionar Chave' -> 'Criar nova Chave' selecione o formato JSON e confirme (aparecerá um arquivo em download que deve ser colocado na pasta junto com o 'arquivo.py')
-*#### Esse arquivo contém as credenciais para acessar o projeto, guarde em segredo.*
+## Esse arquivo contém as credenciais para acessar o projeto, guarde em segredo.
 
 - No canto esquerdo clique em "Biblioteca" e no campo de busca digite "sheets", em seguida clique em 'Google Sheets API' e após isso em 'Ativar'.
 
