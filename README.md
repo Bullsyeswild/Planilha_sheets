@@ -34,10 +34,11 @@ OBS: Como a 'credencial.json' é particular e não deve ser divulgada, deixo o p
 
 ### Criando planilha:
 
-- Crie uma nova planilha no endereço <a href="https://docs.google.com/spreadsheets/u/0/"> e de um titulo qualquer
+- Crie uma nova planilha no endereço <a href="https://docs.google.com/spreadsheets/u/0/"> aqui </a> e de um titulo qualquer
 - Em seguida clique em 'Compartilhar' e coloque o e-mail que foi gerado como 'Conta de Serviço'
 
 ### No código:
 
 - Na parte 'credentials.json' coloque o nome do arquivo que foi gerado ao 'Criar nova Chave'
-- O ID da planilha é a parte do link da planilha demonstrado como exemplo a seguir "https://docs.google.com/spreadsheets/d/ ->ID ESTARÁ AQUI <- /edit#gid=0"
+- O ID da planilha é a parte do link da planilha demonstrado como exemplo a seguir:
+- "docs.google.com/spreadsheets/d/ ->ID ESTARÁ AQUI <- /edit#gid=0"
